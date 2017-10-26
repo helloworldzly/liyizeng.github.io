@@ -1,6 +1,6 @@
 ---
-layout: blogs-list
+layout: blog-list
 title: All Blogs
 excerpt: "A List of Blogs"
-comments: true
+comments: false
 ---
