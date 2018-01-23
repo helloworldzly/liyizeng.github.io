@@ -11,5 +11,5 @@ comments: false
 ## Basic Information
 * I am a PhD candidate at IIIS, Tsinghua University now. I get my Bachelor degree from Sun Yet-sen University in 2017. 
 * My reserach direction includes: Data Mining, Blockchain, Fintech. 
-* My adviser is Professor [Andrew Chi-Chih Yao](http://iiis.tsinghua.edu.cn/zh/yao/), my co-advisers are Professor [Wei Xu](http://iiis.tsinghua.edu.cn/~weixu/) and MSRA Researcher [Thomas Moscibroda](https://www.microsoft.com/en-us/research/people/moscitho/) 
+* My adviser is Professor [Wei Xu](http://iiis.tsinghua.edu.cn/~weixu/).
 
