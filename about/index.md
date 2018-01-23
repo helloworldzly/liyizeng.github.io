@@ -5,11 +5,12 @@ tags: [about]
 date: 2017-10-26
 comments: false
 ---
-<center><b>Email: </b>zengly2017@gmail.com</center> 
-<center><b>Github: </b><a href="https://github.com/helloworldzly">https://github.com/helloworldzly</a></center>
+<center><b>A PhD candidate in Computer Science</b></center>
+<center><b>zengly2017@gmail.com</b></center> 
+##Education
+* Tsinghua University, Ph.D. :  Aug.2017 - present
+* Sun Yet-sen university, B.S : Sep.2013 - Jul.2017
 
-## Basic Information
-* I am a PhD candidate at IIIS, Tsinghua University now. I get my Bachelor degree from Sun Yet-sen University in 2017. 
-* My reserach direction includes: Data Mining, Blockchain, Fintech. 
-* My adviser is Professor [Wei Xu](http://iiis.tsinghua.edu.cn/~weixu/).
+##Research Interest
+* Data Mining, Blockchain, Fintech. 
 
