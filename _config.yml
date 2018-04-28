@@ -4,7 +4,7 @@ bio:                'PhD Candidate at IIIS, Tsinghua University'
 description:        "Keep trace of learning and coding"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/selfi2.jpeg'
+logo:               'assets/img/self2.jpeg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
