@@ -13,9 +13,9 @@ Education
 * Sun Yet-sen university, B.S, Sep.2013 - Jul.2017
 
 Research Interest
-* Data Mining, Blockchain, Fintech. 
+* Network Measurement, Blockchain, Security Analytics. 
 
 Research Topic
-* Measurement Study of Mining Pools and Pool Participants on Ethereum
-* Understanding the Evolution of Decentralized Application Ecosystem on Ethereum
-* Consortium Blockchain System Abnormal Behavior Detection
+* Long-term Security Analysis of Mining Pools and Pool Participants in Ethereum
+* Empirical Analysis of the Dynamic Behavior of Ethereum Smart Contracts
+* Monitoring the Security Vulnerabilities of Ethereum Nodes
